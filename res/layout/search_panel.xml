@@ -38,7 +38,7 @@
                 android:id="@+id/search_toolbar"
                 android:layout_width="match_parent"
                 android:layout_height="@dimen/search_bar_height"
-                android:background="?android:attr/selectableItemBackground"
+                android:background="@color/search_panel_background"
                 android:contentInsetStart="0dp"
                 android:contentInsetStartWithNavigation="0dp"
                 android:theme="?android:attr/actionBarTheme">
