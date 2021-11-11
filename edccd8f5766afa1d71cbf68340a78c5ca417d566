@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "7b1aa2dd_485bd921",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000000
+      },
+      "writtenOn": "2021-11-11T00:33:09Z",
+      "side": 1,
+      "message": "use monet colors\n\nalso can we overlay this in vendor somehow since it\u0027s in xml",
+      "revId": "edccd8f5766afa1d71cbf68340a78c5ca417d566",
+      "serverId": "039621b9-0c7c-40f3-867c-684f4bc911d6"
+    }
+  ]
+}
